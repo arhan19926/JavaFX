@@ -1,7 +1,7 @@
 <h1>starter web project</h1>
 
-## intro
+<h2> intro</h2>
 
-##purpoese
+<strong>purpoese</strong>
 
-##how to contribute
+<b>how to contribute</b>
