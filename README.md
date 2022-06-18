@@ -7,3 +7,4 @@
 <b>how to contribute</b>
 
 gasgaege
+copyright 
